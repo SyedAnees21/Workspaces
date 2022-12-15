@@ -1,0 +1,10 @@
+stcubegenerated\system_stm32f4xx.o: ../Src/system_stm32f4xx.c
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Include/core_cm4.h
+stcubegenerated\system_stm32f4xx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+stcubegenerated\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h

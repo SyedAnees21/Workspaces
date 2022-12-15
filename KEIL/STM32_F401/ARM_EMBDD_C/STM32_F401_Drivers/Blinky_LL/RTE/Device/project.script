@@ -1,0 +1,4 @@
+load STM32F401CCUx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "D:\Coderatory\office work\KEIL_Workspace\ARM_EMBDD_C\STM32_F401\Blinky_LL\RTE\Device\STM32F401CCUx\" 

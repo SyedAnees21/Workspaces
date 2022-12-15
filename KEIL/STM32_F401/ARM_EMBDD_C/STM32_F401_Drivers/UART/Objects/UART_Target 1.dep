@@ -1,0 +1,38 @@
+Dependencies for Project 'UART', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\uart_main.c)(0x62548454)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xC -D_RTE_-o .\objects\uart_main.o --omf_browse .\objects\uart_main.crf --depend .\objects\uart_main.d)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x6110EAF0)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xc.h)(0x6110EAF0)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D41312)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x60254DAE)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x6110EAF0)
+I (uart_driver.h)(0x624B7410)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x60254DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x60254DAE)
+F (.\uart_driver.h)(0x624B7410)()
+F (.\uart_driver.c)(0x624C28CB)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xC -D_RTE_-o .\objects\uart_driver.o --omf_browse .\objects\uart_driver.crf --depend .\objects\uart_driver.d)
+I (uart_driver.h)(0x624B7410)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x6110EAF0)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xc.h)(0x6110EAF0)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D41312)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x60254DAE)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x6110EAF0)
+F (RTE\Device\STM32F401CCUx\startup_stm32f401xc.s)(0x6110EAF0)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "STM32F401xC SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f401xc.lst --xref -o .\objects\startup_stm32f401xc.o --depend .\objects\startup_stm32f401xc.d)
+F (RTE\Device\STM32F401CCUx\system_stm32f4xx.c)(0x6110EAF0)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xC -D_RTE_-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x6110EAF0)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xc.h)(0x6110EAF0)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D41312)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x60254DAE)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D41312)
+I (C:\Users\The laptop store\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x6110EAF0)

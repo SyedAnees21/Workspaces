@@ -1,0 +1,10 @@
+--cpu Cortex-M4.fp
+".\oskernel.o"
+".\oskernel_1.o"
+".\main.o"
+".\startup_stm32f411xe.o"
+".\system_stm32f4xx.o"
+--strict --scatter ".\RoundRobin_v1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\RoundRobin_v1.map" -o .\RoundRobin_v1.axf

@@ -1,0 +1,11 @@
+.\oskernel.o: osKernel.c
+.\oskernel.o: osKernel.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm4.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\ARMCC\Bin\..\include\stdint.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h
+.\oskernel.o: C:\Keil_v5\V518a\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
